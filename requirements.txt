@@ -1,0 +1,4 @@
+disnake
+numpy
+scikit-learn
+requests

@@ -1,0 +1,12 @@
+version: "3.3"
+
+services:
+  mschelper:
+    build: ./MSCHelper
+    container_name: mschelper_bot
+    restart: unless-stopped
+    volumes:
+      - ./MSCHelper:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+      - UV_COMPILE_BYTECODE=1
