@@ -1,6 +1,7 @@
 # MSCHelper Discord Bot
 
 This is a comprehensive Discord bot designed to enhance server moderation, manage user roles, and provide utility features.
+Made by xdearboy and kasper
 
 ## Features
 
