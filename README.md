@@ -56,8 +56,8 @@ The bot includes the following key functionalities:
 
 ## Installation
 
-(Details on how to install the bot will be added here.)
+(Details on how to install the bot will be added here soon.)
 
 ## Usage
 
-(Instructions on how to use the bot and its commands will be added here.)
+(Instructions on how to use the bot and its commands will be added here soon.)
